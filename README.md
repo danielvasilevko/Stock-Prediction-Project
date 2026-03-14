@@ -4,6 +4,7 @@ This repository contains a Google Colab notebook and dataset for stock price ana
 # Repository Structure
 - Math168.ipynb - Notebook with all code.
 - stockData.csv - Stock price dataset used in the notebook.
+- SP_500_Trends_Graph_Attention_Networks.pdf - Associated paper discussing the project motivation, proccess, and results.
 
 # What the Notebook Does
 
